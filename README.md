@@ -41,7 +41,7 @@ The dashboard provides a visual overview of customer retention and churn perform
 
 ## 📁 Files Included
 
-- `task2_revathi.xlsx` — Customer Retention & Churn Analysis dashboard
+Task2_Customer_Retention_Churn_Analysis.xlsx` — Customer Retention & Churn Analysis dashboard
 
 ## 👩‍💻 Author
 
